@@ -1,6 +1,6 @@
 
 <h1 align="center" style="border-bottom: none;">Epic Games</h1>
-<h3 align="center">This is a clone of Epic games.com.We have used HTML, CSS, Javascript, Node.js, Mongoose and MongoDB to achieve this.</h3>
+<h3 align="center">This is a clone of Epic games.com. We have used HTML, CSS, Javascript, Node.js and MongoDB to achieve this.</h3>
 
 # Technology We Used :computer: 
 
